@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-08",
+  "sessions": [
+    {
+      "id": "session-001",
+      "topics": [
+        {
+          "name": "rapid-mastery",
+          "level": 2,
+          "level_name": "Understand",
+          "key_points": [
+            "Three-stage workflow: Deconstruct-Construct-Transfer",
+            "Must output before input",
+            "100% test pass required to proceed",
+            "Socratic questioning on errors"
+          ]
+        },
+        {
+          "name": "STAR method",
+          "level": 3,
+          "level_name": "Apply",
+          "key_points": [
+            "Situation-Task-Action-Result structure",
+            "Action takes 50% of response",
+            "Result must be quantified",
+            "Used successfully for interview practice"
+          ]
+        },
+        {
+          "name": "database configuration",
+          "level": 2,
+          "level_name": "Understand-Apply",
+          "key_points": [
+            "Four pillars: Network, Permissions, Performance, Storage",
+            "Connection issues = Network config",
+            "Access control = Permissions config",
+            "Read-only user: GRANT SELECT"
+          ]
+        },
+        {
+          "name": "learning-archiver",
+          "level": 2,
+          "level_name": "Understand",
+          "key_points": [
+            "Skill to export conversations to learning-records/",
+            "Organizes by date with summary",
+            "Git integration for backup",
+            "Created today as practical application"
+          ]
+        }
+      ],
+      "duration": "90min",
+      "timestamp": "2026-04-08T13:50:00+08:00"
+    }
+  ]
+}
